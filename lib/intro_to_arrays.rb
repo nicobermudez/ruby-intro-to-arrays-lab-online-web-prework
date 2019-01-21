@@ -1,4 +1,5 @@
 def insantiate_new_array
+  array = new.Array 
   return []
 end
 
