@@ -11,9 +11,11 @@ def first_element
 end
 
 def third_element
+  array[2]
 end
 
 def last_element
+  array.last
 end
 
 def first_element_with_array_methods
